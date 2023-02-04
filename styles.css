@@ -56,9 +56,13 @@ body{
 .title{
   color: burlywood;
   text-align: center;
+  
+}
+h2{
+  color: gray ;
 }
 h6{
-  color: red;
+  color: rgb(129, 77, 40);
   font-weight: bold;
   margin:0;
   width: 90%;
@@ -117,7 +121,6 @@ h1{
 }
 .parel  {
   background-size: cover;
-  opacity: 0.9;
   width: 80%;
   margin-left: 10%;
   position: relative;
@@ -153,9 +156,16 @@ h1{
 .all{
   background-color: #000;
 }
-p{
-  color: aliceblue;
+p {
+  color: beige;
+  padding-left: 20px;
+  width: 1070px;
+  border: 15px solid rgb(13, 2, 51);
+  padding: 50px;
+  margin: 20px;
+  font-size: 1.2rem;
 }
 .entire{
   background-color: #000;
 }
+
