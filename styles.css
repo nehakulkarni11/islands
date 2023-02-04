@@ -1,0 +1,161 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.topnav {
+    background-color: #000;
+    overflow: hidden;
+  }
+  .topnav a {
+    margin-left: 5.5%;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: normal;
+    font-family: sans-serif;
+  }
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .bg{
+    position: relative;
+  }
+  .bg {
+    height: 100%;
+    width:100%;
+    margin: 0;
+    background-position: center;
+    background-size: cover;
+}
+.quote {
+    position: absolute;
+    color: bisque;
+    top: 63%;
+    padding: 5%;
+    animation: glow 1s ease-in-out infinite alternate;
+
+}
+.explore{
+    position:absolute;
+    color: antiquewhite;
+    top: 12%;
+    padding: 5%;
+    margin-left: 60%;
+}
+.mumbai{
+  background-color: black;
+  margin-top: 0%;
+  padding-top: 0%;
+}
+.title{
+  color: burlywood;
+  text-align: center;
+}
+h6{
+  color: red;
+  font-weight: bold;
+  margin:0;
+  width: 90%;
+
+
+}
+.start{
+  background-color: #000;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.start p{
+  color: aliceblue;
+  padding: 0%;
+  margin: 0%;
+  font-size: 1.3rem;
+}
+.king{
+  width: 95%;
+  height: 20rem;
+}
+.map{
+  width: 30%;
+  margin-left: 5rem;
+  display: block;
+}
+.problem{
+  width: 250rem;
+}
+.tiffin {
+  background-size: cover;
+  opacity: 0.8;
+  width: 80%;
+  margin-left: 10%;
+  position: relative;
+}
+/*.bombay {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+  position: absolute;
+
+}*/
+h1{
+  text-align: center;
+  color: maroon;
+}
+.colaba  {
+  background-size: cover;
+  opacity: 0.9;
+  width: 80%;
+  margin-left: 10%;
+  position: relative;
+}
+.parel  {
+  background-size: cover;
+  opacity: 0.9;
+  width: 80%;
+  margin-left: 10%;
+  position: relative;
+}
+.mahim  {
+  background-size: cover;
+  opacity: 0.8;
+  width: 80%;
+  margin-left: 10%;
+  position: relative;
+}
+.worli  {
+  background-size: cover;
+  opacity: 0.9;
+  width: 80%;
+  margin-left: 10%;
+  position: relative;
+}
+.gaon  {
+  background-size: cover;
+  opacity: 0.8;
+  width: 80%;
+  margin-left: 10%;
+  position: relative;
+}
+.old {
+  background-size: cover;
+  opacity: 0.8;
+  width: 80%;
+  margin-left: 10%;
+  position: relative;
+}
+.all{
+  background-color: #000;
+}
+p{
+  color: aliceblue;
+}
+.entire{
+  background-color: #000;
+}
